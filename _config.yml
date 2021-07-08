@@ -23,7 +23,8 @@ user:
   name: BangJinM
   pic: /assets/img/icon.jpg
   picAlt: "BangJinM"
-  job: 游戏猴子
+  job: 游戏开发
+  message: 菜鸡游戏开发，邮箱mabangjin@outlook.com
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
