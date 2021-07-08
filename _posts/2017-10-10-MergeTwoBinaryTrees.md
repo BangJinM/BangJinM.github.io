@@ -2,8 +2,7 @@
 layout: post
 title: "Merge Two Binary Trees"
 date: 2017-10-10
-description: "算法"
-tag: Arithmetic
+categories: 算法
 
 ---
 ####Merge Two Binary Trees
