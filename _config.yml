@@ -24,7 +24,7 @@ user:
   pic: /assets/img/icon.jpg
   picAlt: "BangJinM"
   job: 游戏猴子
-  aboutme: false # comment this out if you don't need the 'about' page.
+  aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
