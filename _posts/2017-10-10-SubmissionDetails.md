@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Submission Details"
+title: Submission Details
 date: 2017-10-10
 categories: 算法
 

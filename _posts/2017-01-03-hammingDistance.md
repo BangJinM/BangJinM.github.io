@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hamming Distance"
+title: Hamming Distance
 date: 2017-10-10
 categories: 算法
 ---

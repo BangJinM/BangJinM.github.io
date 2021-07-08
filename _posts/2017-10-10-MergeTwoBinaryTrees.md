@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Merge Two Binary Trees"
+title: Merge Two Binary Trees
 date: 2017-10-10
 categories: 算法
 

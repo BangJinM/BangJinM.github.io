@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Distribute Candies"
+title: Distribute Candies
 date: 2017-10-10
 categories: 算法
 

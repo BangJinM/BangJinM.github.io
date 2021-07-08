@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reshape the Matrix"
+title: Reshape the Matrix
 date: 2017-10-10
 categories: 算法
 
