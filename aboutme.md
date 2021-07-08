@@ -1,6 +1,6 @@
 ---
-layout: aboutme
+layout: page
 ---
-
 {% include archive.html %}
+
 ### BangJinMa
