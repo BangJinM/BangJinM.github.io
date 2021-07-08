@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Hamming Distance
-date: 2017-10-10
-categories: 算法
+categories: [算法]
+comments: true
 ---
-
 ### Hamming Distance
 
 根据位的运算计算得到：
