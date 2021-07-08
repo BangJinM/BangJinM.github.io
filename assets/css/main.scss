@@ -364,14 +364,35 @@ img {
         display: none;
 
         &+div {
-            background: url('../img/s.png') no-repeat center;
-            border-radius: 50%;
-            content: '';
+            background: url('../img/m.png') no-repeat center center;
             width: 30px;
             height: 30px;
-            position: absolute;
-            transform: scale(0);
-            transition: all .5s ease;
+            border-radius: 50%;
+            position: relative;
+            transition: box-shadow .5s ease 0s, transform .5s ease .1s;
+
+            &:before {
+                
+                content: '';
+                width: inherit;
+                height: inherit;
+                position: absolute;
+                left: 0;
+                top: 0;
+                transition: background .5s ease;
+            }
+
+            &:after {
+                
+                background: url('../img/s.png') no-repeat center;
+                border-radius: 50%;
+                content: '';
+                width: 30px;
+                height: 30px;
+                position: absolute;
+                transform: scale(0);
+                transition: all .5s ease;
+            }
         }
 
         &:checked+div {
