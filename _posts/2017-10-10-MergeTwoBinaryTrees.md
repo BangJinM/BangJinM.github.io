@@ -18,7 +18,7 @@ You need to merge them into a new binary tree. The merge rule is that if two nod
 
 #### 代码
 共使用了三种方法
-```language
+```
 
 TreeNode *mergeTrees(TreeNode *t1, TreeNode *t2) {
 #if 1

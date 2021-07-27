@@ -31,7 +31,7 @@ Given an integer array with even length, where different numbers in this array r
 	The sister has two different kinds of candies, the brother has only one kind of candies.
 
 ######代码
-```language
+```
     int distributeCandies(vector<int>& candies) {
         unordered_map<int, int> map{};
 
@@ -49,7 +49,7 @@ Given an integer array with even length, where different numbers in this array r
         else return map.size();
     }
 ```
-```language
+```
 unordered_map<int, int> map(candies.size());
 
         for (auto candiesIter = candies.begin(); candiesIter != candies.end()

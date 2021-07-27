@@ -23,7 +23,7 @@ Note:
 
 #####代码
 
-```language
+```
 void initMap(unordered_map<char,int> &temp)
     {
         temp['z']=1;

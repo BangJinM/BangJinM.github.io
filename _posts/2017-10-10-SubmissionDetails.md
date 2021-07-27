@@ -70,7 +70,7 @@ You need to return the sum of the points you could get in all the rounds.
     
 ###### 代码
 第一次写：
-```language
+```
 		vector<int> vector{};
 
         for (auto iterOps = ops.begin(); iterOps != ops.end(); ++iterOps) {
@@ -98,7 +98,7 @@ You need to return the sum of the points you could get in all the rounds.
         return vector.back();
 ```
 在之前基础上修改：
-```language
+```
 	int calPoints(vector<string> &ops) {
 		vector<int> vector{};
         int num=0;
