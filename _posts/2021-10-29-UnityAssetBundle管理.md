@@ -1,6 +1,6 @@
 ---
 
-title: Unity AssetBundle管理
+title: UnityAssetBundle管理
 categories: [Unity]
 comments: true
 ---
